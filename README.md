@@ -8,7 +8,7 @@ I like building tools that build things.
 
 ### What I'm building
 
-- 🧠 **[ClaudeKit](https://nnnsightnnn.github.io/claudekit/)** — persistent memory & self-improving skills for Claude Code· [code](https://github.com/Nnnsightnnn/claudekit)
+- 🧠 **[ClaudeKit](https://nnnsightnnn.github.io/claudekit/)** — persistent memory & self-improving skills for Claude Code · [code](https://github.com/Nnnsightnnn/claudekit)
 - 🌿 **[Steady](https://nnnsightnnn.github.io/motivational-app/)** — phone-first PWA motivation & grounding companion that learns what works for you · [code](https://github.com/Nnnsightnnn/motivational-app)
 - 🎨 **[Limn](https://nnnsightnnn.github.io/limn/)** — open-source, AI-scaffolded prompt designer for image generation; wizard + free-form modes with OpenRouter AI assist · [code](https://github.com/Nnnsightnnn/limn)
 - ⚽ **[Liverpool Tracker](https://nnnsightnnn.github.io/liverpool-tracker/)** — daily LFC news, fixtures, and match intelligence, automated · [code](https://github.com/nnnsightnnn/liverpool-tracker)
