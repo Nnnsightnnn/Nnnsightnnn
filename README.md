@@ -11,6 +11,7 @@ I like building tools that build things.
 - 🧠 **[ClaudeKit](https://nnnsightnnn.github.io/claudekit/)** — persistent memory & self-improving skills for Claude Code · [code](https://github.com/Nnnsightnnn/claudekit)
 - 🌿 **[Steady](https://nnnsightnnn.github.io/motivational-app/)** — phone-first PWA motivation & grounding companion that learns what works for you · [code](https://github.com/Nnnsightnnn/motivational-app)
 - 🎨 **[Limn](https://nnnsightnnn.github.io/limn/)** — open-source, AI-scaffolded prompt designer for image generation; wizard + free-form modes with OpenRouter AI assist · [code](https://github.com/Nnnsightnnn/limn)
+- 📡 **[Info Diffusion](https://nnnsightnnn.github.io/info-diffusion/)** — interactive SIR-style simulator of how an idea ripples through a population · [code](https://github.com/Nnnsightnnn/info-diffusion)
 - ⚽ **[Liverpool Tracker](https://nnnsightnnn.github.io/liverpool-tracker/)** — daily LFC news, fixtures, and match intelligence, automated · [code](https://github.com/nnnsightnnn/liverpool-tracker)
 - 🏀 **[Hawks Tracker](https://nnnsightnnn.github.io/hawks-tracker/)** — Atlanta Hawks 2025-26 season — roster, stats, and daily news · [code](https://github.com/nnnsightnnn/hawks-tracker)
 - 🦅 **[Falcons Tracker](https://nnnsightnnn.github.io/falcons-tracker/)** — Atlanta Falcons season tracker — schedule, roster, and news · [code](https://github.com/nnnsightnnn/falcons-tracker)
