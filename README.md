@@ -1,8 +1,8 @@
-# Hey there 👋
+# Hey 👋
 
 **AI tinkerer & automation nerd**
 
-I like building tools that build things.
+I'm a solo developer.  Most of my free time is building tools for awareness and personal growth.  If you like what you see or you have any criticism I'd love to hear it, give me a shout.
 
 ---
 
